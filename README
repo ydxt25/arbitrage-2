@@ -1,0 +1,6 @@
+a arbitrage project by python/c++
+=========
+dependences
+*  apt-get install cmake
+*  apt-get install libcurl4-gnutls-dev
+*  apt-get install libgoogle-glog-dev
